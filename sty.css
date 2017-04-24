@@ -1,0 +1,18 @@
+
+.crop-img{
+  
+max-height:15px;
+  
+max-width:50%;
+  
+margin-bottom: 10px;
+
+}
+
+
+.large-img{
+  
+max-width:100%;
+  
+margin-top: 10px;
+}
